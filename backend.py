@@ -7,7 +7,7 @@ import requests
 import math
 
 
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = "sk-or-xxxxxxxxxxxxxxxxxx"
 
 
 app = Flask(__name__)
